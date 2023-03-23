@@ -75,3 +75,25 @@ Changing divs in the header to (nav)
         </div>
     </header>
 ```
+
+
+```html
+<div class="content">
+        <div class="search-engine-optimization">
+            <img src="./assets/images/search-engine-optimization.jpg" class="float-left" />
+            <h2>Search Engine Optimization</h2>
+            <p>
+                The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
+            </p>
+        </div>
+ ----------------------------------------------------
+ <div class="content">
+        <div id="search-engine-optimization" class="search-engine-optimization">
+            <img src="./assets/images/search-engine-optimization.jpg" class="float-left" />
+            <h2>Search Engine Optimization</h2>
+            <p>
+                The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
+            </p>
+        </div>       
+```
+updating this code because on the website users are not getting redirected where they are suppose to by clicking the search engine optimization header. it needed a id along with the class in order for it to work.
