@@ -121,4 +121,28 @@ updating this code because on the website users are not getting redirected where
     </div>
 ```
 
-This block of code had no alternate attributes for people who have disabilities. i added them so it makes the site more accesible to everyone.
+This block of code had no alternate attributes for people who have disabilities. I added them so it makes the site more accesible to everyone.
+
+## Author information
+
+```MD
+### Emanuel Molina
+
+[GitHub](https://github.com/AcquahLopid)
+[LinkedIn](https://www.linkedin.com/in/emanuel-molina-65b84426b/)
+
+```
+
+## Credits
+
+[Html alt attributes](https://www.w3schools.com/tags/att_area_alt.asp)
+
+[Html Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+## License
+
+
+
+
